@@ -1,0 +1,107 @@
+haskell-generics-sop (0.5.1.0-deepin1) unstable; urgency=medium
+
+  * Rebuild
+
+ -- Deepin Packages Builder <packages@deepin.org>  Mon, 14 Nov 2022 17:38:28 +0800
+
+haskell-generics-sop (0.5.1.0-2) unstable; urgency=medium
+
+  * Patch in a Setup.hs.
+
+ -- Clint Adams <clint@debian.org>  Tue, 02 Jun 2020 11:21:55 -0400
+
+haskell-generics-sop (0.5.1.0-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Clint Adams <clint@debian.org>  Mon, 01 Jun 2020 19:25:34 -0400
+
+haskell-generics-sop (0.4.0.1-1) unstable; urgency=medium
+
+  [ Ilias Tsitsimpis ]
+  * Remove Dmitry Bogatov from Uploaders per his request. Thank you
+    Dmitry for your previous maintainership.
+
+  [ Clint Adams ]
+  * New upstream release
+
+ -- Clint Adams <clint@debian.org>  Thu, 01 Aug 2019 19:03:52 -0400
+
+haskell-generics-sop (0.3.2.0-2) unstable; urgency=medium
+
+  [ Clint Adams ]
+  * Set Rules-Requires-Root to no.
+
+  [ Ilias Tsitsimpis ]
+  * Bump debhelper compat level to 10
+
+ -- Ilias Tsitsimpis <iliastsi@debian.org>  Sun, 30 Sep 2018 21:09:25 +0300
+
+haskell-generics-sop (0.3.2.0-1) unstable; urgency=medium
+
+  [ Ilias Tsitsimpis ]
+  * Change Priority to optional. Since Debian Policy version 4.0.1,
+    priority extra has been deprecated.
+  * Use the HTTPS form of the copyright-format URL
+  * Modify d/watch and Source field in d/copyright to use HTTPS
+  * Declare compliance with Debian policy 4.1.1
+  * Use salsa.debian.org URLs in Vcs-{Browser,Git} fields
+
+  [ Clint Adams ]
+  * Bump to Standards-Version 4.1.4.
+  * New upstream release
+
+ -- Clint Adams <clint@debian.org>  Mon, 09 Apr 2018 15:59:41 -0400
+
+haskell-generics-sop (0.3.1.0-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Sean Whitton <spwhitton@spwhitton.name>  Sun, 03 Sep 2017 13:39:27 -0700
+
+haskell-generics-sop (0.2.5.0-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Clint Adams <clint@debian.org>  Sat, 17 Jun 2017 14:38:04 -0400
+
+haskell-generics-sop (0.2.2.0-3) unstable; urgency=medium
+
+  * Upload to unstable as part of GHC 8 transition.
+
+ -- Clint Adams <clint@debian.org>  Thu, 27 Oct 2016 18:33:47 -0400
+
+haskell-generics-sop (0.2.2.0-2) experimental; urgency=medium
+
+  * Temporarily build-depend on ghc 8.
+
+ -- Clint Adams <clint@debian.org>  Thu, 13 Oct 2016 16:43:40 -0400
+
+haskell-generics-sop (0.2.2.0-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Clint Adams <clint@debian.org>  Thu, 04 Aug 2016 13:24:41 -0400
+
+haskell-generics-sop (0.2.1.0-1) unstable; urgency=medium
+
+  [ Dmitry Bogatov ]
+  * Use secure (https) uri in Vcs-Git field in 'debian/control'
+  * Bump standards version to 3.9.8 (no changes needed)
+
+  [ Joachim Breitner ]
+  * New upstream release
+
+ -- Joachim Breitner <nomeata@debian.org>  Sun, 29 May 2016 12:10:12 +0200
+
+haskell-generics-sop (0.2.0.0-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Clint Adams <clint@debian.org>  Mon, 11 Jan 2016 00:07:16 -0500
+
+haskell-generics-sop (0.1.1.2-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Dmitry Bogatov <KAction@gnu.org>  Sat, 26 Dec 2015 16:41:48 +0300
